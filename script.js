@@ -391,7 +391,7 @@ function initMap(lat, lng, zoom) {
   icon: "./images/markers-Photoroom.png",
   title: "Guess",
   draggable: true})
-}
+  }
 
 )
 
